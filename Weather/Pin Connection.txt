@@ -1,0 +1,6 @@
+ESP8266		-	OLED
+
+3V		->	VCC
+GND		->	GND
+D2		->	SCL
+D1		->	SDA
